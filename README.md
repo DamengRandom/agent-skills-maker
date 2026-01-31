@@ -2,7 +2,7 @@
 
 Architect professional code standards and AI agent behaviors for your production teams in seconds. Powered by **Nuxt 4**, **TanStack AI**, and **Groq**.
 
-![Agent Skills Maker UI](https://raw.githubusercontent.com/lucide-dev/lucide/main/icons/bot.svg)
+![demo.png](/public/demo.png)
 
 ## ✨ Features
 
@@ -15,7 +15,6 @@ Architect professional code standards and AI agent behaviors for your production
 
 ## Quick demo
 
-- Please check the demo image for details ![demo.png](/public/demo.png) 
 - Also, please check [rontend-engineering-agent-skills.md](/frontend-engineering-agent-skills.md) file for an example check
 
 ## 🚀 Quick Start
